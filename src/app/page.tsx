@@ -82,7 +82,7 @@ export default function Home() {
                 prefetch={false}
               >
                 <img
-                  src="/womens-collection.png"
+                  src="https://crm-testing-2025.s3.us-east-2.amazonaws.com/shopify/womens-collection.png"
                   width="400"
                   height="500"
                   alt="Women's Collection"
@@ -100,7 +100,7 @@ export default function Home() {
                 prefetch={false}
               >
                 <img
-                  src="/mens-collection.png"
+                  src="https://crm-testing-2025.s3.us-east-2.amazonaws.com/shopify/mens-collection.png"
                   width="400"
                   height="500"
                   alt="Men's Collection"
@@ -114,7 +114,7 @@ export default function Home() {
             <div className="grid gap-1">
               <Link href="/search/kids" className="group" prefetch={false}>
                 <img
-                  src="/kids-collection.png"
+                  src="https://crm-testing-2025.s3.us-east-2.amazonaws.com/shopify/kids-collection.png"
                   width="400"
                   height="500"
                   alt="Kids' Collection"
@@ -128,7 +128,7 @@ export default function Home() {
             <div className="grid gap-1">
               <Link href="/search/sales" className="group" prefetch={false}>
                 <img
-                  src="/sales-collection.png"
+                  src="https://crm-testing-2025.s3.us-east-2.amazonaws.com/shopify/sales-collection.png"
                   width="400"
                   height="500"
                   alt="Sale's Collection"
@@ -142,7 +142,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="w-full py-12 lg:py-7 bg-[url('/sale-backdrop.svg')] grid place-content-center">
+      <section className="w-full py-12 lg:py-7 bg-[url('/https://crm-testing-2025.s3.us-east-2.amazonaws.com/shopify/sale-backdrop.svg')] grid place-content-center">
         <div className="container grid items-center justify-center gap-4 px-4 text-center md:px-6">
           <img src="https://crm-testing-2025.s3.us-east-2.amazonaws.com/shopify/sale-banner.svg" alt="sale footer banner" />
           <div className="space-y-3 z-50">
